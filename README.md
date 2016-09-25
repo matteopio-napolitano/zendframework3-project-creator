@@ -13,11 +13,11 @@ Additional packages can be installed by using [Composer](https://getcomposer.org
 Instructions
 -------
 
-1. Download this script an make it executable
+Download this script an make it executable
 ```
 $ chmod 777 /path/to/script/zf3install.sh
 ```
-2. Run the script
+Run the script
 ```
 $ /path/to/script/zf3install.sh myprojectname
 ```
