@@ -21,6 +21,13 @@ Run the script
 ```
 $ /path/to/script/zf3install.sh myprojectname
 ```
+
+Contributing
+-------
+
+Feel free to improve this project! If you don't know how, read this guide:
+[The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
 Author
 -------
 Matteo Pio Napolitano - matteopio.napolitano@gmail.com
