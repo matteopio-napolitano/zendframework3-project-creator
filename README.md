@@ -1,4 +1,4 @@
-Zend Framework 3 Installer
+Zend Framework 3 Project Creator
 =======
 
 Description
@@ -14,13 +14,13 @@ Instructions
 -------
 
 1. Download this script an make it executable
-
-	$ chmod 777 /path/to/script/zf3install.sh
-
+```
+$ chmod 777 /path/to/script/zf3install.sh
+```
 2. Run the script
-
-	$ /path/to/script/zf3install.sh myprojectname
-
+```
+$ /path/to/script/zf3install.sh myprojectname
+```
 Author
 -------
 Matteo Pio Napolitano - matteopio.napolitano@gmail.com
