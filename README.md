@@ -1,5 +1,7 @@
 Zend Framework 3 Project Creator
 =======
+[![Issue Count](https://codeclimate.com/github/matteopio-napolitano/zendframework3-project-creator/badges/issue_count.svg)](https://codeclimate.com/github/matteopio-napolitano/zendframework3-project-creator)
+
 
 Description
 -------
